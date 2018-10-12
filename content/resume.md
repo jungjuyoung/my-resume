@@ -6,9 +6,7 @@ date: 2017-01-01
 
 # Daniel S. Marshall
 ## Your Info {.heading .hide}
-<!-- Oakville, Ontario\
-905 849 0586\
-daniel.marshall@gmail.com\ -->
+
 47, Samjak-ro 268beon-gil, Bucheon-si, Gyeonggi-do, Republic of Korea
 010 4124 8841
 nwwn1004@naver.com

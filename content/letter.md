@@ -13,9 +13,12 @@ daniel.marshall@gmail.com
 ## {.divider}
 
 ## {.heading-them}
-Attn: Hiring Manager\
+<!-- Attn: Hiring Manager\
 Noodle Box\
-Vancouver, British Columbia
+Vancouver, British Columbia -->
+47, Samjak-ro 268beon-gil, Bucheon-si, Gyeonggi-do, Republic of Korea
+010 4124 8841
+nwwn1004@naver.com
 
 ## Content {.hide} 
 Hello,
